@@ -18,7 +18,7 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 
 In this class, I'm really hoping to:
 
-- Finally learn how to make graphs that don't suck. I want to make charts that are actually clear and helpful, not confusing or misleading.
+- Learn how to make graphs that don't suck. I want to make charts that are actually clear and helpful, not confusing or misleading.
 
 - Get good at telling stories with numbers. Instead of just showing a spreadsheet of moisture levels, I want to be able to create a visual that tells a story like, "Here's why this wall detail will prevent mold."
 
@@ -111,3 +111,4 @@ _List any references you used here._
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
+Check grammars
