@@ -11,7 +11,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi everyone, my name is **_Bo_**, and I’m currently a first-year **MSBPD** student. I graduated from Cal Poly in 2023 with a Bachelor of Architecture and have been working professionally in Sacramento for about two years. I’m also a licensed architect in the State of Illinois. Recently, I decided to shift my career focus from traditional architectural design toward building technology and science, especially in building envelope, waterproofing and vapor proofing, and also to expand my professional network on the East Coast. 
+Hi everyone, my name is **_Bo_**, and I’m currently a first-year **Master of Science in Building Performance & Diagnostics (MSBPD)** student. I graduated from Cal Poly in 2023 with a Bachelor of Architecture and have been working professionally in Sacramento for about two years. I’m also a licensed architect in the State of Illinois. Recently, I decided to shift my career focus from traditional architectural design toward building technology and science, especially in building envelope, waterproofing and vapor proofing, and also to expand my professional network on the East Coast. 
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
