@@ -1,7 +1,7 @@
 | [home page](https://libo010.github.io/bo-li-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me.
 
 # About me
 Hi everyone, my name is **Bo**, and I’m currently a first-year **Master of Science in Building Performance & Diagnostics (MSBPD)** student. I graduated from Cal Poly in 2023 with a Bachelor of Architecture and have been working professionally in Sacramento for about two years. I’m also a licensed architect in the State of Illinois. Recently, I decided to shift my career focus from traditional architectural design toward building technology and science, especially in building envelope, waterproofing and vapor proofing, and also to expand my professional network on the East Coast. 
