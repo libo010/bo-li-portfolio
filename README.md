@@ -20,9 +20,7 @@ In this class, I'm really hoping to:
 
 - Learn how to make graphs that don't suck. I want to make charts that are actually clear and helpful, not confusing or misleading.
 
-- Get good at telling stories with numbers. Instead of just showing a spreadsheet of moisture levels, I want to be able to create a visual that tells a story like, "Here's why this wall detail will prevent mold."
-
-- Figure out how to use cool data viz tools. I see people making interactive dashboards online and I have no idea how they do it. I want to get my hands dirty with tools like Tableau or Flourish so I can build those myself.
+- Get good at telling stories with numbers. Instead of just showing a spreadsheet of data, I want to be able to create a visual that tells a story like, "Here's why this wall detail will prevent mold."
 
 - Stop relying on just static drawings. In architecture, we live in PDFs. I want to learn how to create dynamic visuals that can make my reports and presentations way more powerful and convincing.
 
