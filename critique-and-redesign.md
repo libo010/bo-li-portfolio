@@ -3,7 +3,7 @@
 I decided to work on NYC pizza slices data set. I was drawn to this visualization because it documents an interesting, daily purchase with the rigor of a long-term study. The author didn't just track prices; they compiled a dataset from 464 specific slices over eight years, explicitly excluding dollar slices to refine the average. This approach transforms a simple observation into a concrete record of urban life. As someone familiar with New York City and its food culture, seeing the steady climb from $2.52 to $3.00 for a plain slice validates a feeling I’ve had that the city's most basic needs are dramatically changing. The most compelling details are those observations, like the note on the declining amount of sauce, which suggests a downgrade of quality that a price line alone can't show. It’s a personal archive that uses data to tell a very human story about cost, value, and the slow evolution of a city's character through its food.
 
 Here’s a link to the original data visualization: https://elkue.com/nyc-slice/
-& 
+
 Here're some screenshots of the original data viz.
 
 <img width="1386" height="858" alt="Screenshot 2025-11-12 233700" src="https://github.com/user-attachments/assets/e0f3d9e5-633c-4a8d-98ec-564f73685591" />
