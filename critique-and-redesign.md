@@ -81,6 +81,9 @@ For the line charts, I will **separate the data by borough**, creating individua
 
 
 # The End
+
+#### STEP 01
+
 I chose a dot map as the foundation for my redesign because its primary intent is to answer a straightforward, location-based question: "Where can I find an affordable slice of pizza in New York City?" Unlike a simple chart, a map provides immediate geographical context, allowing users to connect pricing data directly to neighborhoods and boroughs they know. By plotting each pizzeria as a single point on the map, the visualization grounds the abstract concept of "average price" in tangible, specific places, transforming the data from a statistical summary into a practical guide for exploration.
 
 The color coding is central to achieving this clarity. I used a gradient from cool to warm colors—specifically, blue for the most affordable slices transitioning to orange and red for the most expensive. This intuitive color scheme creates an instant visual hierarchy; the "cool" blue dots signal budget-friendly options, while the "warm" red dots act as a visual caution for higher prices. This immediate categorization allows a user to quickly scan the map and identify clusters of affordability or expense. In a fully interactive version, hovering over a dot would reveal the shop's name and exact price, adding a crucial layer of detail to this initial geographic overview.
@@ -94,6 +97,8 @@ The color coding is central to achieving this clarity. I used a gradient from co
 	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
 	vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+#### STEP 02
 
 This monthly data table was created to investigate consistency of the data collection over the eight-year period. While the original visualization effectively showed the overarching annual trend, this table's intent is to reveal the finer, seasonal patterns that might be lost in a yearly average, such as potential price fluctuations during tourist-heavy summer months or slower winter periods. More importantly, its structure immediately exposes a key finding about the data's composition: the complete absence of entries for 2018. This wasn't just a slow year; it was a definitive pause in the project, a "gap year" for pizza logging that the annual line chart would otherwise completely obscure.
 
@@ -109,6 +114,8 @@ To make this table functional and visually communicative, a strategic color sche
 	vizElement.parentNode.insertBefore(scriptElement, vizElement);       
 </script>
 
+#### STEP 03
+
 I created this bar chart to directly answer the geographic question that the original visualization lacked: how does the average price of a slice compare across New York City's boroughs? The intent was to move beyond a city-wide average and provide a clear, ranked comparison. This format is excellent for this purpose, as the human eye can instantly judge the relative length of the bars, making it immediately obvious that, for instance, Brooklyn and Queens are close in price while Bronx stands out as the most expensive. It efficiently validates the hypothesis that location within the city is a major price determinant. For the color scheme, I chose distinct, contrasting colors for each borough to reinforce their separation as unique data categories. However, I agree that the final result isn't visually appealing; the colors feel extra and don't relate to the data (like price) in a meaningful way. This is a key reason I didn't use it in the final design. A better approach might have been to use a single-color gradient (e.g., light yellow to dark red) where the intensity of the color corresponds to the price, instantly creating a visual hierarchy. 
 
 <div class='tableauPlaceholder' id='viz1763010564644' style='position: relative'><noscript><a href='#'><img alt='Sheet 8 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Progress03&#47;Sheet8&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Progress03&#47;Sheet8' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Progress03&#47;Sheet8&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>        
@@ -121,6 +128,8 @@ I created this bar chart to directly answer the geographic question that the ori
 	vizElement.parentNode.insertBefore(scriptElement, vizElement);           
 </script>
 
+#### STEP 04
+
 The shift from a bar chart to this straightforward text entry box was driven by a clear intent: to prioritize absolute clarity and speed of reading over visual embellishment. This minimalist approach strips away all graphical elements, presenting the core data, borough names and their corresponding average prices, in the most direct way possible. The goal is functional efficiency; a viewer can instantly locate a specific borough and its precise price without interpreting bar lengths, colors, or axis scales. This format excels as a quick-reference legend or a summary statistic, serving an audience that needs the raw numbers without any decorative overhead.
 
 <div class='tableauPlaceholder' id='viz1763010639928' style='position: relative'><noscript><a href='#'><img alt='Sheet 9 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Progress04&#47;Sheet9&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Progress04&#47;Sheet9' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Progress04&#47;Sheet9&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>            
@@ -132,6 +141,8 @@ The shift from a bar chart to this straightforward text entry box was driven by 
 	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';  
 	vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+#### STEP 05
 
 These two visualizations represent a significant step toward a dynamic and user-driven final design. The first, an interactive line chart, was created to address the original critique's lack of a clear narrative. By breaking the annual data into quarterly points, it reveals more granular trends and seasonal fluctuations that the yearly average completely hid. The inclusion of a filter for "Pepperoni" and "Plain" styles, combined with a year selector, allows a user to actively investigate specific questions, such as whether the price gap between the two types widened after 2020. This interactivity transforms the chart from a static statement into a tool for personal exploration, directly answering the feedback that the data needed a stronger storytelling element.
 The second visualization, a price range chart filtered by borough, serves a dual purpose. Firstly, it fulfills the core redesign goal of geographic separation, finally allowing for a direct comparison of pricing landscapes across the Bronx, Brooklyn, Manhattan, Queens, and Staten Island. The interactive borough filter is crucial here. Secondly, the price slider is the key feature; it empowers the user to set their own budget and immediately see which neighborhoods fall within it. This directly caters to the identified audience of cost-conscious consumers. The color choice for the range—likely a gradient from a cool color for $1.00 to a warm color for $6.53—would provide an intuitive, instant read on the spectrum of affordability within each selected borough, making the data both accessible and actionable.
@@ -156,6 +167,7 @@ The second visualization, a price range chart filtered by borough, serves a dual
 	vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
 
+#### STEP 06 - The Final Design
 My redesigned data visualization, "NYC's Cheapest Slices: A Price Map by Borough," aims to transform the original dataset from a personal log into a practical, interactive tool for a clearly defined audience: budget-conscious pizza enthusiasts exploring New York City. I selected a multi-component dashboard specifically to tell a more complete and accessible story than the original single chart. The design does three key things differently: First, it immediately grounds the user with a clear geographic breakdown by providing average prices per borough, something the original visualization completely omitted. Second, it introduces interactivity through filters for borough, year, and price range, empowering the user to ask and answer their own questions, such as how prices in Brooklyn evolved compared to Manhattan. Finally, it corrects the original's visual ambiguity by using distinct colors and clear legends to separate pepperoni and plain slice trends, ensuring the data is interpreted correctly at a glance.
 The visualization now effectively shows three interconnected narratives. The central map provides a spatial overview of affordability. The interactive line chart reveals the temporal trend, showing not just that prices rose, but how the "pepperoni pizza" has fluctuated over time. The borough summary and zip code filter work in tandem to answer the most pressing user question: "Where can I find a slice in my budget?" By making these elements interactive and interconnected, the redesign moves beyond a static fun fact to become a dynamic exploration of cost, location, and time, ultimately providing a much richer and more useful insight into the economics of NYC's pizza culture.
 
