@@ -118,15 +118,16 @@ To make this table functional and visually communicative, a strategic color sche
 
 I created this bar chart to directly answer the geographic question that the original visualization lacked: how does the average price of a slice compare across New York City's boroughs? The intent was to move beyond a city-wide average and provide a clear, ranked comparison. This format is excellent for this purpose, as the human eye can instantly judge the relative length of the bars, making it immediately obvious that, for instance, Brooklyn and Queens are close in price while Bronx stands out as the most expensive. It efficiently validates the hypothesis that location within the city is a major price determinant. For the color scheme, I chose distinct, contrasting colors for each borough to reinforce their separation as unique data categories. However, I agree that the final result isn't visually appealing; the colors feel extra and don't relate to the data (like price) in a meaningful way. This is a key reason I didn't use it in the final design. A better approach might have been to use a single-color gradient (e.g., light yellow to dark red) where the intensity of the color corresponds to the price, instantly creating a visual hierarchy. 
 
-<div class='tableauPlaceholder' id='viz1763010564644' style='position: relative'><noscript><a href='#'><img alt='Sheet 8 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Progress03&#47;Sheet8&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Progress03&#47;Sheet8' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Progress03&#47;Sheet8&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>        
+<div class='tableauPlaceholder' id='viz1763064007960' style='position: relative'><noscript><a href='#'><img alt='Sheet 8 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Progress03&#47;Sheet8&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Progress03&#47;Sheet8' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Progress03&#47;Sheet8&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>         
 <script type='text/javascript'>                 
-	var divElement = document.getElementById('viz1763010564644');      
-	var vizElement = divElement.getElementsByTagName('object')[0];            
+	var divElement = document.getElementById('viz1763064007960');    
+	var vizElement = divElement.getElementsByTagName('object')[0];     
 	vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';      
-	var scriptElement = document.createElement('script');                
-	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';         
-	vizElement.parentNode.insertBefore(scriptElement, vizElement);           
+	var scriptElement = document.createElement('script');   
+	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';  
+	vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
+
 
 #### STEP 04
 
