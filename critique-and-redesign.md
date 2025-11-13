@@ -6,13 +6,13 @@ Here’s a link to the original data visualization: https://elkue.com/nyc-slice/
 
 Here're some screenshots of the original data viz.
 
-<img width="1386" height="858" alt="Screenshot 2025-11-12 233700" src="https://github.com/user-attachments/assets/e0f3d9e5-633c-4a8d-98ec-564f73685591" />
+<img width="1386" height="858" alt="Screenshot 2025-11-12 233700" src="https://github.com/user-attachments/assets/e0f3d9e5-633c-4a8d-98ec-564f73685591" width="500"//>
 Figure 01
 
-<img width="1586" height="830" alt="Screenshot 2025-11-12 233706" src="https://github.com/user-attachments/assets/81bd8b41-7c77-4393-b5a3-b386b5bb7a85" />
+<img width="1586" height="830" alt="Screenshot 2025-11-12 233706" src="https://github.com/user-attachments/assets/81bd8b41-7c77-4393-b5a3-b386b5bb7a85" width="500"/>
 Figure 02
 
-<img width="1675" height="704" alt="Screenshot 2025-11-12 233712" src="https://github.com/user-attachments/assets/e34dde72-add7-4d66-9945-b316c68855aa" />
+<img width="1675" height="704" alt="Screenshot 2025-11-12 233712" src="https://github.com/user-attachments/assets/e34dde72-add7-4d66-9945-b316c68855aa"  width="500"/>
 Figure 03
 
 
