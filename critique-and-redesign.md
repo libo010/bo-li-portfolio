@@ -175,10 +175,10 @@ Andy Kriebel. (2023, January 30). New York City Pizza Slices - #MakeoverMonday 2
 Quigley, L. (2023). NYC Slice – Liam Quigley. Elkue.com. https://elkue.com/nyc-slice/
 
 # AI acknowledgements:
-Grammar Check
-Summerizing in-class brainstorming ideas
-Polishing write-up
-GitHub coding assistance 
+- Grammar Check
+- Summerizing in-class brainstorming ideas
+- Polishing write-up
+- GitHub coding assistance 
 
 
 
