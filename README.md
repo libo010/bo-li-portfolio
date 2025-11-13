@@ -33,7 +33,13 @@ In this class, I'm really hoping to:
 </script>
 
 ## Assignment: [Critique and Redesign](critique-and-redesign)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-and-redesign.md`.
+Here you can find my Assignment: Critique and redesign (MakeoverMonday).
+
+
+
+
+
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
