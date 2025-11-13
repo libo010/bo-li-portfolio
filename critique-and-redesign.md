@@ -172,6 +172,7 @@ The visualization now effectively shows three interconnected narratives. The cen
 
 # Reference:
 Andy Kriebel. (2023, January 30). New York City Pizza Slices - #MakeoverMonday 2023 Week 5. YouTube. https://www.youtube.com/watch?v=bdFW6gnbBik&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=56
+
 Quigley, L. (2023). NYC Slice – Liam Quigley. Elkue.com. https://elkue.com/nyc-slice/
 
 # AI acknowledgements:
