@@ -55,7 +55,29 @@ Person D:
 MSPPM student with data visualization experience and have worked on student council and dealt with data. 
 
 For my script I used the in-class handout questions for my interview.
+#### Q1: What worked?
+A: Using the map to visualize the data was effective, and the color scheme particularly stood out.	
+B: The comparison line chart clearly shows how prices changed during the given period.		
+D: The store locations are helpful, which are shown on the map.
 
+#### Q2: What didn’t work?
+B: The small, zoomed-in maps for the various NYC regions are somewhat confusing, as their intended purpose is unclear.	
+C: While the author's intention is to create a heat map for prices, this element is missing from the sketch. It would be easier to implement digitally.	
+D: The intention behind comparing pepperoni and plain pizza is unclear.
+
+#### Q3: What needs further investigation?
+A: It would be interesting to know if the author has historical pizza price data for individual locations, to see how a single shop's prices have changed over time.			
+D: The data visualization is missing a narrative element. The data itself is great, but it didn’t present with a story. For example, it would be useful to explore interesting correlations, such as the relationship between the year and the pizza price.
+
+#### Q4: What might you try next?
+A: The size of the dots on the map could relate to the popularity of each pizza store, providing an visual cue for demand.	
+B: Using different colors to represent the various types of pizza purchased would make it easy to compare preferences across locations.		
+C: A comparison of pizza prices across different boroughs would be very insightful, provided the data is presented clearly.
+
+
+Based on this critique, my redesign plan is much clearer. I will focus the project for an audience looking for affordable pizza in NYC. The title will be straightforward, like **"NYC's Cheapest Slices: A Price Map by Borough."**
+The biggest change will be to the map. I will create a **borough-based heat map using a blue-to-orange gradient**, where blue shows cheaper areas and orange shows expensive ones. This will immediately answer the location and price question. I'll also add a clear legend to show that dots represent pizza types, fixing the color confusion.
+For the line charts, I will **separate the data by borough**, creating individual charts for Manhattan, Brooklyn, and Queens to show their unique price trends over time. I'll also update the time scale to quarters for more detail. 
 
 
 # The End
