@@ -38,7 +38,7 @@ Visually, I'll use distinct color schemes for the line chart and the map. I'll k
 Finally, I'll create a layered map visualization. The base layer will be a heat map showing the general price range across different neighborhoods, with colors indicating high and low prices. I’m thinking using blue to orange gradient color. On top of this, I'll plot individual pizza shops for specific, detailed data.
 
 
-# The Sktech & Interviews
+# The Progress
 Here's my sktech:
 ![2025-11-10 140509](https://github.com/user-attachments/assets/f729f7a2-e9ae-4fe8-9f7e-fed3717559b6)
 
