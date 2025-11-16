@@ -80,9 +80,7 @@ The analysis will use publicly available data where possible and link resort-lev
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+For this project, I plan to create all my data visualizations in Tableau, since it allows me to build interactive maps, comparisons, and trend graphics using publicly available datasets on Colorado ski resorts. More importantly it’s very beginner friendly. As someone doesn’t have many experiences in data visualization, it would help me save a lot of times. After generating the visualizations, I will integrate them into a Shorthand story to present the project as a cohesive, scroll-based interactive experience. Shorthand will let me combine text, images, and Tableau embeds in a way that guides users through the analysis, from identifying high-value resorts to exploring snow patterns and price differences across the state. This approach follows the tools introduced in class and will allow the final deliverable to function as a standalone interactive project. 
 
 ## References
 > Colorado Snow Report | OnTheSnow. (n.d.). Retrieved November 15, 2025, from https://www.onthesnow.com/colorado/skireport
