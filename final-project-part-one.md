@@ -15,7 +15,7 @@ The analysis will use publicly available data where possible and link resort-lev
          - As a budget skier, I want to find resorts with the lowest daily lift cost within a 2-hour drive of Denver.
          - As a powder hunter, I want to find resorts that historically have the greatest average seasonal snowfall.
          - As a trip planner, I want to compare a few resorts on snowfall, price, and elevation so I can pick the best compromise.
-2.	Exploratory layer - map + small filters
+2.	Exploratory layer - map + filters
       1. Interactive state map with resort points sized by vertical drop and colored by a chosen metric (e.g., average snowfall, daily price).
       2. Sidebar filters (distance from a selected city, price range, snow threshold).
 3. Comparative layer - charts
