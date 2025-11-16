@@ -25,6 +25,9 @@ The analysis will use publicly available data where possible and link resort-lev
 4. Conclusion
       1. Conclude with clear, data-backed recommendations for different user personas (e.g., "The Budget-Conscious Expert," "The Powder-Hunting Family"). The final takeaway is that Colorado has a perfect mountain for everyone.
 
+<img src="https://github.com/user-attachments/assets/d30c42a6-2313-4f48-9e41-1155c022c613" width="1000"/>
+
+> This is the sketch I created in class to plan my final project.
 
 # Initial sketches
 1. Colorado Ski Resorts - Snow Map View
@@ -83,15 +86,15 @@ The analysis will use publicly available data where possible and link resort-lev
 For this project, I plan to create all my data visualizations in Tableau, since it allows me to build interactive maps, comparisons, and trend graphics using publicly available datasets on Colorado ski resorts. More importantly it’s very beginner friendly. As someone doesn’t have many experiences in data visualization, it would help me save a lot of times. After generating the visualizations, I will integrate them into a Shorthand story to present the project as a cohesive, scroll-based interactive experience. Shorthand will let me combine text, images, and Tableau embeds in a way that guides users through the analysis, from identifying high-value resorts to exploring snow patterns and price differences across the state. This approach follows the tools introduced in class and will allow the final deliverable to function as a standalone interactive project. 
 
 ## References
-> Colorado Snow Report | OnTheSnow. (n.d.). Retrieved November 15, 2025, from https://www.onthesnow.com/colorado/skireport
+> Colorado Snow Report, OnTheSnow. (n.d.). Retrieved November 15, 2025, from https://www.onthesnow.com/colorado/skireport
 
-> Epic Ski & Snowboard Passes | Epic Season Pass. (n.d.). Retrieved November 15, 2025, from https://www.epicpass.com/
+> Epic Ski & Snowboard Passes, Epic Season Pass. (n.d.). Retrieved November 15, 2025, from https://www.epicpass.com/
 
-> Member Resorts—Official Site of Colorado Ski Country USA. (n.d.). Colorado Ski Country USA. Retrieved November 15, 2025, from https://www.coloradoski.com/resorts/
+> Member Resorts - Official Site of Colorado Ski Country USA. (n.d.). Colorado Ski Country USA. Retrieved November 15, 2025, from https://www.coloradoski.com/resorts/
 
-> Multi-Resort Unlimited Ski/Snowboard Season Pass | Ikon Pass. (n.d.). Retrieved November 15, 2025, from https://www.ikonpass.com/
+> Multi-Resort Unlimited Ski/Snowboard Season Pass, Ikon Pass. (n.d.). Retrieved November 15, 2025, from https://www.ikonpass.com/
 
-> Snow and Climate Monitoring Predefined Reports and Maps | Natural Resources Conservation Service. (n.d.). Retrieved November 15, 2025, from https://www.nrcs.usda.gov/resources/data-and-reports/snow-and-climate-monitoring-predefined-reports-and-maps
+> Snow and Climate Monitoring Predefined Reports and Maps, Natural Resources Conservation Service. (n.d.). Retrieved November 15, 2025, from https://www.nrcs.usda.gov/resources/data-and-reports/snow-and-climate-monitoring-predefined-reports-and-maps
 
 ## AI acknowledgements
 - Grammar Check
