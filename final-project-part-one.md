@@ -75,7 +75,7 @@ The analysis will use publicly available data where possible and link resort-lev
 |   Colorado Ski Country USA   |  https://www.coloradoski.com/resorts/?utm_source=chatgpt.com   |    Colorado Ski Country USA list and resort pages, Wikipedia list of Colorado ski resorts for an initial roster. These give an authoritative list of resorts and basic data.          |
 |    Snow and Climate Monitoring Predefined Reports and Maps  | https://www.nrcs.usda.gov/resources/data-and-reports/snow-and-climate-monitoring-predefined-reports-and-maps?utm_source=chatgpt.com    |    SNOTEL and NRCS provide station time series for snow water equivalent and snow depth across Colorado, they are ideal for objective, comparable historical snow metrics that can be linked to resorts via nearest-station matching.          |
 |  OnTheSnow(Colorado Snow Report)    |  https://www.onthesnow.com/colorado/skireport?utm_source=chatgpt.com   |	Websites like OnTheSnow and individual resort snow report pages provide published values for recent snowfall and day-to-day conditions, useful for current season visualizations and comparison with SNOTEL historical averages.           |
-|   EPIC PASS   |  https://www.epicpass.com/   |     Resort pricing pages (e.g., Vail, Breckenridge), ticket listings (OnTheSnow lift ticket pages), and pass providers (Epic/Ikon). For trends and comparisons, I’ll capture sample daily prices for a representative peak date and an off-peak date, and note pass coverage (Epic/Ikon). Because pricing changes yearly, I will record the date the price was checked and archive pages/screenshots.        |
+|   EPIC & IKON PASS   |  https://www.epicpass.com/ + https://www.ikonpass.com/   |     Resort pricing pages (e.g., Vail, Breckenridge), ticket listings (OnTheSnow lift ticket pages), and pass providers (Epic/Ikon). For trends and comparisons, I’ll capture sample daily prices for a representative peak date and an off-peak date, and note pass coverage (Epic/Ikon). Because pricing changes yearly, I will record the date the price was checked and archive pages/screenshots.        |
 |   Transportation   |     |    Drive times / distance (computed with Google Maps API or distance matrix), airport proximity (for trip planning), and lodging price indices (optional) for richer trip-cost estimates.        |
 
 
@@ -85,7 +85,15 @@ The analysis will use publicly available data where possible and link resort-lev
 Text here...
 
 ## References
-_List any references you used here._
+> Colorado Snow Report | OnTheSnow. (n.d.). Retrieved November 15, 2025, from https://www.onthesnow.com/colorado/skireport
+
+> Epic Ski & Snowboard Passes | Epic Season Pass. (n.d.). Retrieved November 15, 2025, from https://www.epicpass.com/
+
+> Member Resorts—Official Site of Colorado Ski Country USA. (n.d.). Colorado Ski Country USA. Retrieved November 15, 2025, from https://www.coloradoski.com/resorts/
+
+> Multi-Resort Unlimited Ski/Snowboard Season Pass | Ikon Pass. (n.d.). Retrieved November 15, 2025, from https://www.ikonpass.com/
+
+> Snow and Climate Monitoring Predefined Reports and Maps | Natural Resources Conservation Service. (n.d.). Retrieved November 15, 2025, from https://www.nrcs.usda.gov/resources/data-and-reports/snow-and-climate-monitoring-predefined-reports-and-maps
 
 ## AI acknowledgements
 - Grammar Check
