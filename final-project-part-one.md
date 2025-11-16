@@ -3,7 +3,7 @@
 
 # Outline
 ### High-level summary
-This project will investigate how ski resorts in Colorado differ on three practical dimensions: snowfall, direct cost to visit (lift tickets or daily cost), and perceived/value metrics that combine snow and cost. I want to move beyond simple rankings and show the trade-offs a skier faces: a very snowy small hill may be cheap but have limited terrain; a premier resort may charge more but offer terrain variety and reliable snowmaking. The visualization package will let viewers answer concrete questions, such as “Where is the cheapest resort near Denver?” “Which resort has historically received the most snow?”, and explore the relationships (higher elevation means more snow, but also different price tier).
+This project will investigate how ski resorts in Colorado differ on snowfall, direct cost to visit (lift tickets or daily cost), and perceived/value metrics that combine snow and cost. I want to move beyond simple rankings and show the trade-offs a skier faces: a very snowy small hill may be cheap but have limited terrain; a premier resort may charge more but offer terrain variety and reliable snowmaking. The visualization package will let viewers answer concrete questions, such as “Where is the cheapest resort near Denver?” “Which resort has historically received the most snow?”, and explore the relationships (higher elevation means more snow, but also different price tier).
 
 The analysis will use publicly available data where possible and link resort-level metadata (location, vertical drop, lift count) to objective snow measurements (OpenSnow / NOAA) and to price information scraped or recorded from resort or aggregator sites. Visual storytelling will start with a map and simple comparisons, then let users drill into chosen resorts and compare normalized metrics (price per vertical foot, snowfall per operating day). The narrative arc goes from orientation (map & simple facts) to insight (where good snow and low-cost overlap), to decision support (filters for travel distance, budget, and skill level).
 
@@ -65,17 +65,15 @@ The analysis will use publicly available data where possible and link resort-lev
 <img width="1000" alt="Initial Sketches Ideas_02" src="https://github.com/user-attachments/assets/acae5fde-4c6a-4c86-a1de-90252a38425f" />
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|   Colorado Ski Country USA   |  https://www.coloradoski.com/resorts/?utm_source=chatgpt.com   |    Colorado Ski Country USA list and resort pages, Wikipedia list of Colorado ski resorts for an initial roster. These give an authoritative list of resorts and basic data.          |
+|    Snow and Climate Monitoring Predefined Reports and Maps  | https://www.nrcs.usda.gov/resources/data-and-reports/snow-and-climate-monitoring-predefined-reports-and-maps?utm_source=chatgpt.com    |    SNOTEL and NRCS provide station time series for snow water equivalent and snow depth across Colorado, they are ideal for objective, comparable historical snow metrics that can be linked to resorts via nearest-station matching.          |
+|  OnTheSnow(Colorado Snow Report)    |  https://www.onthesnow.com/colorado/skireport?utm_source=chatgpt.com   |	Websites like OnTheSnow and individual resort snow report pages provide published values for recent snowfall and day-to-day conditions, useful for current season visualizations and comparison with SNOTEL historical averages.           |
+|   EPIC PASS   |  https://www.epicpass.com/   |     Resort pricing pages (e.g., Vail, Breckenridge), ticket listings (OnTheSnow lift ticket pages), and pass providers (Epic/Ikon). For trends and comparisons, I’ll capture sample daily prices for a representative peak date and an off-peak date, and note pass coverage (Epic/Ikon). Because pricing changes yearly, I will record the date the price was checked and archive pages/screenshots.        |
+|   Transportation   |     |    Drive times / distance (computed with Google Maps API or distance matrix), airport proximity (for trip planning), and lodging price indices (optional) for richer trip-cost estimates.        |
+
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
