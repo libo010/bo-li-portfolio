@@ -1,6 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
+
+This storyboard outlines the structure of the final Shorthand story. The goal is to guide a user, whether they are a hardcore skier or just planning a winter weekend, through the landscape of Colorado resorts using data.
+
 ### 1. Part A: The Hook (Introduction)
 - **Headline:** "The Colorado Skier’s Dilemma"
 - **Sub-headline:** "Finding the perfect balance between deep snow, challenging terrain, and your bank account."
