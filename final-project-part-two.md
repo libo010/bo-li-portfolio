@@ -26,19 +26,32 @@
 - Narrative: "There is no 'best' resort, only the right one for your budget and skill level. Use the tools above to decide if you want to pay for luxury or just pay for snow."
 
 ### Shorthand
-[Shorthand Draft Presentation]()
+[Shorthand Draft Presentation](https://preview.shorthand.com/jmYWTXrMZ7sy5ori)
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+#### 1. Profile: 
+Young adults, students, Colorado residents and visitors interested in travel or outdoor activities. This audience is broader than just "skiers & snowboarders", it includes anyone looking to plan a trip or understand the local landscape. 
 
-Text here!
+#### 2. Participant Profiles
+Since the target audience is broad, my plan is to select classmates with different levels of domain expertise to simulate the spectrum of real-world users.
+
+P1 (The Novice): New to Colorado. Has never skied and is unfamiliar with resort geography.
+Role: Tests for barriers and basic accessibility.
+
+P2 (The Casual User): Casual skier, skis 1-2 times a year on a budget.
+Role: Tests the "Value Analysis" tools and price sensitivity.
+
+P3 (The Critic): Data Science student with design experience.
+Role: Tests for visual clarity, color logic, and layout flow.
+
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+**Research Goal**
 
-Text here!
+To evaluate the clarity and accessibility of the data visualizations. Since the audience includes potential visitors who may not be ski experts, the research focuses on whether the charts are understandable without prior domain knowledge.
+
 
 | Goal | Questions to Ask |
 |------|------------------|
