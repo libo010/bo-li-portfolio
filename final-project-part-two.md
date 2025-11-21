@@ -31,21 +31,17 @@
 # User research 
 
 ## Target audience
-#### 1. Profile: 
+#### 1. Readers: 
 Young adults, students, Colorado residents and visitors interested in travel or outdoor activities. This audience is broader than just "skiers & snowboarders", it includes anyone looking to plan a trip or understand the local landscape. 
 
-#### 2. Participant Profiles
-Since the target audience is broad, my plan is to select classmates with different levels of domain expertise to simulate the spectrum of real-world users.
+#### 2. Interview Participant Profiles
+Since the target audience is broad, my plan is to select classmates with different levels of experience and skill levels in order to get the idea of the spectrum of real-world users.
 
-P1 (The Novice): New to Colorado. Has never skied and is unfamiliar with resort geography.
-Role: Tests for barriers and basic accessibility.
-
-P2 (The Casual User): Casual skier, skis 1-2 times a year on a budget.
-Role: Tests the "Value Analysis" tools and price sensitivity.
-
-P3 (The Critic): Data Science student with design experience.
-Role: Tests for visual clarity, color logic, and layout flow.
-
+|    Person     | Profile |  Role |
+|-------------------------|--------------------------------|-------------|
+| Person 1 (The Novice) | New to Colorado. Has never skied and is unfamiliar with resort geography.       |   Tests for barriers and basic accessibility.      |
+|     Person 2 (The Casual User)    |   Casual skier, skis 1-2 times a year on a budget.     |   Tests the "Value Analysis" tools and price sensitivity.          |  
+|    Person 3 (The Critic)      |    Data Science student with design experience.       |   Tests for visual clarity, color logic, and layout flow.     |  
 
 ## Interview script
 **Research Goal**
