@@ -51,12 +51,11 @@ To evaluate the clarity and accessibility of the data visualizations. Since the 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| To evaluate if the visualizations are intuitive without heavy explanation.    |    "Looking at this map, can you point to the resorts that are the most expensive? How did you know?"         |
+|  To assess "Data Literacy." Can the user interpret the X and Y axes simultaneously to find a specific data point (High Snow + Low Price)?    |   "Look at this chart comparing 'Price' (bottom) and 'Snow' (left). If you wanted to save money but still see a lot of snow, which area of the chart would you look at?"               |
+|  To identify domain-specific language (e.g., "Vertical Drop," "Skiable Acres") that creates barriers for a general audience.    |     "Are there any words, labels, or titles on these charts that you find confusing or unfamiliar?"     |
+| To determine if the sequence of visualizations tells a coherent story or feels disjointed.     |    "Is there any information missing that you feel you would need to see before making a decision?"     |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -87,14 +86,22 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
+> Colorado Snow Report, OnTheSnow. (n.d.). Retrieved November 15, 2025, from https://www.onthesnow.com/colorado/skireport
+
+> Epic Ski & Snowboard Passes, Epic Season Pass. (n.d.). Retrieved November 15, 2025, from https://www.epicpass.com/
+
+> Member Resorts - Official Site of Colorado Ski Country USA. (n.d.). Colorado Ski Country USA. Retrieved November 15, 2025, from https://www.coloradoski.com/resorts/
+
+> Multi-Resort Unlimited Ski/Snowboard Season Pass, Ikon Pass. (n.d.). Retrieved November 15, 2025, from https://www.ikonpass.com/
+
+> Snow and Climate Monitoring Predefined Reports and Maps, Natural Resources Conservation Service. (n.d.). Retrieved November 15, 2025, from https://www.nrcs.usda.gov/resources/data-and-reports/snow-and-climate-monitoring-predefined-reports-and-maps
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+- Grammar Check
+- Summerizing in-class brainstorming ideas
+- Polishing write-up
+- GitHub coding assistance
+- Initial Sketche Ideas
