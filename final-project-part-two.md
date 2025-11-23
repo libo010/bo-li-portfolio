@@ -64,7 +64,7 @@ To evaluate the clarity and accessibility of the data visualizations. Since the 
 
 Interview 1: First year grad student with no experience in neither data visualization nor snow sprots 
 
-Interview 2: Master student with some experience snowboarding, have been to a couple of trips near Pittsburgh
+Interview 2: Master student with some experience snowboarding, have been to a couple of trips near Pittsburgh, beginner level
 
 Interview 3: Female student with some course works experience in data visualization
 
