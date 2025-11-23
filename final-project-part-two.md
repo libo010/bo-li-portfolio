@@ -77,21 +77,14 @@ Interview 3: Female student with some course works experience in data visualizat
 |  **"Is there any information missing that you feel you would need to see before making a decision?"**  | "I like starting with the map. It helps me orient myself before seeing the numbers." |   "The bar charts at the end are my favorite. I just want the list of 'Cheapest' so I can book it. Maybe put a 'Top 5' summary at the top?"   |   "The flow works. It goes from 'Where?' (Map) to 'Which?' (Scatter) to 'What?' (Rankings)."    |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| **Misunderstanding of "Vertical Drop":** P1 interpreted "Vertical Drop" as "Steepness" rather than mountain height. This caused confusion about the map's bubble size encoding, making them fear "big" bubbles meant "too difficult." | Rename Legend & Add Subtitle: I will change the map legend title from "Vertical Drop" to "Mountain Height". Or Keep both. I will also add a small subtitle explaining: "Measured from base to peak indicates the vertical size of the resort." |
+|   **"Miles" is a poor proxy for Travel Effort:** P2 noted that measuring distance in miles is misleading for mountain travel (e.g., 60 miles on I-70 can take 3+ hours). This metric failed to help them plan a realistic trip.            |       Switch to Traveling Time: I will replace the Dist_Denver_Miles metric in the tooltips with Travel_Time_Min (Average Drive Time). The tooltip will now read: "Approx. Drive from Denver: [X] Hours."   |
+|   **Distrust of Low Price Points:** When viewing the "Cheapest Resorts" bar chart, P2 questioned the quality of the lowest-priced options (e.g., "Is this $59 resort just a tiny hill?"). The simple bar chart lacked context on value/size.  |   Add Contextual Color Coding: I will modify the "Cheapest Resorts" bar chart to include a color code for Resort Size. Green Bars: Large Resorts (>1,000 acres). Grey Bars: Small Hills (<500 acres). This helps users distinguish between a "great deal" and a "small hill." |
+|   **Effectiveness of Annotations:** All participants praised the "Best Value" text box on the scatterplot. P1 noted they would have struggled to interpret the chart without it.  |  Standardize Annotations: I will ensure that all final charts in Tableau include explicit text annotations (e.g., "Best Value Zone," "Most Expensive," "Hidden Gem") rather than relying on the user to read the axes alone. |
 
-> ...include any final thoughts you have here. 
-
-Text here!
 
 
 ## References
@@ -111,4 +104,4 @@ Text here!
 - Summerizing in-class brainstorming ideas
 - Polishing write-up
 - GitHub coding assistance
-- Initial Sketche Ideas
+- Initial Sketch ideas
