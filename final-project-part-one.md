@@ -105,4 +105,4 @@ For this project, I plan to create all my data visualizations in Tableau, since 
 - Summerizing in-class brainstorming ideas
 - Polishing write-up
 - GitHub coding assistance
-- Initial Sketche Ideas
+- Initial Sketch ideas
