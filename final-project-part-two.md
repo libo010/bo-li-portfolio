@@ -61,16 +61,20 @@ To evaluate the clarity and accessibility of the data visualizations. Since the 
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+Interview 1: First year grad student with no experience in neither data visualization nor snow sprots 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+Interview 2: Master student with some experience snowboarding, have been to a couple of trips near Pittsburgh
+
+Interview 3: Female student with some course works experience in data visualization
+
+
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+|**"Looking at this map, can you point to the resorts that are the most expensive? How did you know?"** | "I can tell the dark blue ones are expensive. But the size... I'm confused if a big bubble means a scary mountain."    |   "I see the big bubbles are the major resorts. But you list 'Distance' in miles. That's annoying because 60 miles in the mountains takes way longer than 60 miles on the plains. I need to know drive time."          |    "The color scale is intuitive. The bubbling size is good, but maybe add a note that size = height, not width."     |
+| **"Look at this chart comparing 'Price' (bottom) and 'Snow' (left). If you wanted to save money but still see a lot of snow, which area of the chart would you look at?"** |       "I see the 'Best Value' box you drew. That helps a lot. Without that, I'd probably have to stare at the axes for a while to figure out that 'up and left' is good." |  "I'd click the top left, Wolf Creek. Lots of snow, cheap ticket. But wait, why is it so cheap? Is it far away?" |     "This is the strongest chart. The annotation is key. It guides the eye immediately to the insight."  |
+|   **"Are there any words, labels, or titles on these charts that you find confusing or unfamiliar?"**  |   “The legend says 'Vertical Drop.' Does that mean how steep the slope is? Or how tall the mountain is?” |   "I know what acres are, but maybe explain if 500 acres is big or small? I don't have a frame of reference."  |             |
+|  **"Is there any information missing that you feel you would need to see before making a decision?"**  | "I like starting with the map. It helps me orient myself before seeing the numbers." |   "The bar charts at the end are my favorite. I just want the list of 'Cheapest' so I can book it. Maybe put a 'Top 5' summary at the top?"   |   "The flow works. It goes from 'Where?' (Map) to 'Which?' (Scatter) to 'What?' (Rankings)."    |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
