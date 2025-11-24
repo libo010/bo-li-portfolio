@@ -33,7 +33,7 @@ This storyboard outlines the structure of the final Shorthand story. The goal is
 - Narrative: "There is no 'best' resort, only the right one for your budget and skill level. Use the tools above to decide if you want to pay for luxury or just pay for snow."
 
 #### Shorthand
-[Shorthand Draft Presentation](https://preview.shorthand.com/jmYWTXrMZ7sy5ori)
+> [Shorthand Draft Presentation](https://preview.shorthand.com/jmYWTXrMZ7sy5ori)
 
 # User research 
 
