@@ -98,27 +98,27 @@ Interview 3: Female student with some course works experience in data visualizat
 ## References
 > Aranoff, J. (2025, April 1). My First Time: Aspen Snowmass. SKI. https://www.skimag.com/ski-resort-life/aspen-snowmass-first-time/
 
-> Arapahoe Basin Ski Resort Review | Colorado. (2025, May 8). PeakRankings. https://www.peakrankings.com/content/arapahoe-basin
+> Arapahoe Basin Ski Resort Review, Colorado. (2025, May 8). PeakRankings. https://www.peakrankings.com/content/arapahoe-basin
 
-> Beginner Ski Terrain in Crested Butte: Your Ultimate Guide | Butte & Co. (2025, July 9). https://www.crestedbutteskirentals.com/blog/beginner-ski-terrain-in-crested-butte-your-ultimate-guide/
+> Beginner Ski Terrain in Crested Butte: Your Ultimate Guide, Butte & Co. (2025, July 9). https://www.crestedbutteskirentals.com/blog/beginner-ski-terrain-in-crested-butte-your-ultimate-guide/
 
 > Colorado Ski Resorts. (n.d.). Colorado.Com. Retrieved November 23, 2025, from https://www.colorado.com/colorado-ski-resorts
 
-> Colorado Snow Report | OnTheSnow. (n.d.). Retrieved November 15, 2025, from https://www.onthesnow.com/colorado/skireport
+> Colorado Snow Report, OnTheSnow. (n.d.). Retrieved November 15, 2025, from https://www.onthesnow.com/colorado/skireport
 
-> Epic Ski & Snowboard Passes | Epic Season Pass. (n.d.). Retrieved November 15, 2025, from https://www.epicpass.com/
+> Epic Ski & Snowboard Passes, Epic Season Pass. (n.d.). Retrieved November 15, 2025, from https://www.epicpass.com/
 
 > Member Resorts—Official Site of Colorado Ski Country USA. (n.d.). Colorado Ski Country USA. Retrieved November 15, 2025, from https://www.coloradoski.com/resorts/
 
-> Multi-Resort Unlimited Ski/Snowboard Season Pass | Ikon Pass. (n.d.). Retrieved November 15, 2025, from https://www.ikonpass.com/
+> Multi-Resort Unlimited Ski/Snowboard Season Pass, Ikon Pass. (n.d.). Retrieved November 15, 2025, from https://www.ikonpass.com/
 
 > Silverton Mountain. (n.d.). Silverton Mountain. Retrieved November 23, 2025, from https://silvertonmountain.com/mountain/stats/
 
 > Skiing Purgatory Resort In the San Juan Mountains. (n.d.). OutdoorMaster. Retrieved November 23, 2025, from https://outdoormaster.com/blogs/om-blog/skiing-purgatory-resort-in-the-san-juan-mountains
 
-> Snow and Climate Monitoring Predefined Reports and Maps | Natural Resources Conservation Service. (n.d.). Retrieved November 15, 2025, from https://www.nrcs.usda.gov/resources/data-and-reports/snow-and-climate-monitoring-predefined-reports-and-maps
+> Snow and Climate Monitoring Predefined Reports and Maps, Natural Resources Conservation Service. (n.d.). Retrieved November 15, 2025, from https://www.nrcs.usda.gov/resources/data-and-reports/snow-and-climate-monitoring-predefined-reports-and-maps
 
-> Winter Mountain Stats | Copper Mountain Resort. (n.d.). Retrieved November 23, 2025, from https://www.coppercolorado.com/the-mountain/mountain-safety-stats/winter-mountain-stats/
+> Winter Mountain Stats, Copper Mountain Resort. (n.d.). Retrieved November 23, 2025, from https://www.coppercolorado.com/the-mountain/mountain-safety-stats/winter-mountain-stats/
 
 > Wolf Creek Review. (n.d.). PeakRankings. Retrieved November 23, 2025, from https://www.peakrankings.com/content/wolf-creek
 
