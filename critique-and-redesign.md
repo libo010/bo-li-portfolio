@@ -48,10 +48,13 @@ Because of limited time and discussion in class, I didn't get detailed feedback 
 
 Person A:
 Healthcare Analysis student with some course works experience in data visualization.
+
 Person B:
 Psychology student with a concentration on product research. No data visualization experience.
+
 Person C:
 Information System student. No data visualization experience.
+
 Person D:
 MSPPM student with data visualization experience and have worked on student council and dealt with data. 
 
