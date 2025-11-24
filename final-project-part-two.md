@@ -9,22 +9,26 @@ This storyboard outlines the structure of the final Shorthand story. The goal is
 - **Sub-headline:** "Finding the perfect balance between deep snow, challenging terrain, and your bank account."
 - Visual: High-quality photo of a snowy mountain landscape (wide shot).
 - Narrative: "Colorado is world-famous for its winter sports, but visiting can be intimidating and expensive. With tickets ranging from $50 to over $250, how do you know what you are paying for? This guide helps you navigate the trade-offs between cost, snow reliability, and terrain."
-- Goal: Set the stage for a "Value Analysis." 
+- Goal: Set the stage for a "Value Analysis."
+  
 ### 2. Part B: The Landscape (Interactive Map)
 - Goal: Understand geography. Where are these places?
 - Design Notes:
     - Encoding: Bubble size = Mountain Size (Vertical Drop), Color = Price.
     - Key Feature: Tooltips that translate "Distance" into "Drive Time" (e.g., "2 hours from Denver"), as this is more useful for students and travelers.
+
 ### 3. Part C: The Value Equation (Scatterplot)
 - Goal: Compare resorts directly to find the "Sweet Spot."
 - Design Notes:
     - Layout: A scatterplot comparing Price (X-axis) vs. Snowfall (Y-axis).
     - Annotation: A clear shaded box in the top-left labeled "Best Value (High Snow, Low Price)" so users don't have to guess what the chart means.
+
 ### 4. Part D: The Rankings (Bar Charts)
 - Goal: Quick answers for specific needs (Cheapest vs. Snowiest).
 - Design Notes:
     - Visual: Two simple bar charts.
     - Context: Since a "cheap" resort might be very small, I will color-code the "Cheapest" bars by size (Grey = Small, Green = Big) to keep the data honest.
+
 ### 5. Part E: Conclusion
 - Narrative: "There is no 'best' resort, only the right one for your budget and skill level. Use the tools above to decide if you want to pay for luxury or just pay for snow."
 
