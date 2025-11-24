@@ -58,10 +58,12 @@ To evaluate the clarity and accessibility of the data visualizations. Since the 
 
 | Goal | Questions to Ask |
 |------|------------------|
-| To evaluate if the visualizations are intuitive without heavy explanation.    |    "Looking at this map, can you point to the resorts that are the most expensive? How did you know?"         |
-|  To assess "Data Literacy." Can the user interpret the X and Y axes simultaneously to find a specific data point (High Snow + Low Price)?    |   "Look at this chart comparing 'Price' (bottom) and 'Snow' (left). If you wanted to save money but still see a lot of snow, which area of the chart would you look at?"               |
-|  To identify domain-specific language (e.g., "Vertical Drop," "Skiable Acres") that creates barriers for a general audience.    |     "Are there any words, labels, or titles on these charts that you find confusing or unfamiliar?"     |
-| To determine if the sequence of visualizations tells a coherent story or feels disjointed.     |    "Is there any information missing that you feel you would need to see before making a decision?"     |
+| To test if the encoding (Bubble Size = Vertical Drop; Color = Price) is intuitive to users.      |  "Looking at this map, can you easily identify which resorts are the biggest and which are the most expensive?"    |
+|   To determine if the geographic layout and tooltips (implied context) successfully convey "Drive Time" rather than just distance.    |   "If you had to drive from Denver, can you tell how far these places are?"   |
+|   To verify if the "Sweet Spot" annotation and the X/Y axis layout allow users to find the 'Best Value' quadrant without guessing.    |  "If you wanted to find the best deal, high snow for a low price, where would you look on this chart?"    |
+|  To see if the color-coding (Grey vs. Green) effectively provides context on resort size so the data remains "honest".     |   "Rank these resorts by price. Can you tell which of the cheap resorts are actually small mountains versus big ones?"   |
+|  To evaluate if the layout allows for a quick comparison of season longevity.     | "Looking at this timeline, can you quickly tell me who stays open the longest?"    |
+| To test if the stacked bar chart accurately conveys the difficulty levels      |  "If you are a beginner, which resort looks safest for you?"    |
 
 
 ## Interview findings
@@ -75,32 +77,51 @@ Interview 3: Female student with some course works experience in data visualizat
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-|**"Looking at this map, can you point to the resorts that are the most expensive? How did you know?"** | "I can tell the dark blue ones are expensive. But the size... I'm confused if a big bubble means a scary mountain."    |   "I see the big bubbles are the major resorts. But you list 'Distance' in miles. That's annoying because 60 miles in the mountains takes way longer than 60 miles on the plains. I need to know drive time."          |    "The color scale is intuitive. The bubbling size is good, but maybe add a note that size = height, not width."     |
-| **"Look at this chart comparing 'Price' (bottom) and 'Snow' (left). If you wanted to save money but still see a lot of snow, which area of the chart would you look at?"** |       "I see the 'Best Value' box you drew. That helps a lot. Without that, I'd probably have to stare at the axes for a while to figure out that 'up and left' is good." |  "I'd click the top left, Wolf Creek. Lots of snow, cheap ticket. But wait, why is it so cheap? Is it far away?" |     "This is the strongest chart. The annotation is key. It guides the eye immediately to the insight."  |
-|   **"Are there any words, labels, or titles on these charts that you find confusing or unfamiliar?"**  |   “The legend says 'Vertical Drop.' Does that mean how steep the slope is? Or how tall the mountain is?” |   "I know what acres are, but maybe explain if 500 acres is big or small? I don't have a frame of reference."  |             |
-|  **"Is there any information missing that you feel you would need to see before making a decision?"**  | "I like starting with the map. It helps me orient myself before seeing the numbers." |   "The bar charts at the end are my favorite. I just want the list of 'Cheapest' so I can book it. Maybe put a 'Top 5' summary at the top?"   |   "The flow works. It goes from 'Where?' (Map) to 'Which?' (Scatter) to 'What?' (Rankings)."    |
+|   **"Looking at this map, can you easily identify which resorts are the biggest and which are the most expensive?"**    | Found the "Vertical Drop" legend confusing. They asked, "Does a bigger circle mean the mountain is physically wider, or just taller?" They did not immediately equate "Vertical Drop" with "Mountain Size".     |    |  Noted that the color scale (Purple to Yellow) was effective, but felt the distinction between the yellow bubbles (expensive) was clear.  |
+|  **"If you had to drive from Denver, can you tell how far these places are?"**     |      |    | Pointed out that the "I-70" and "I-25" road lines were too thin and the red star for "Denver" was somewhat small, making it hard to quickly gauge the route without looking closely.   |
+|  **"If you wanted to find the best deal, high snow for a low price, where would you look on this chart?"**     |   Struggled with the term "Pass Affiliation" in the legend, as they did not know what "Ikon" or "Epic" meant.   | "I love the green box. It tells me exactly where to look so I don't have to do the math in my head." This confirmed the "Sweet Spot" design was working.   |    |
+|   **"Rank these resorts by price. Can you tell which of the cheap resorts are actually small mountains versus big ones?"**    |   "I almost thought Wolf Creek was the best deal because it's the cheapest, but then I saw it was grey (Small). That stopped me from assuming it was a big resort."   |  Found this chart the easiest to read for a quick decision.  |    |
+|  **"Looking at this timeline, can you quickly tell me who stays open the longest?"**    |   "Why is this sorted this way?" The bars appeared random (likely alphabetical) rather than sorted by length. "I have to scan up and down to find the longest bar."   |  Did notice that Arapahoe Basin extends into July, which was a surprise, but agreed the sorting made it harder to compare the middle-tier resorts.  |    |
+| **"If you are a beginner, which resort looks safest for you?"**    | "I see the colors, but I don't know what they mean. Is Green easy or is Blue easy?" They lacked the domain knowledge that "Green = Beginner."   |   |  Suggested moving the legend closer to the bars or adding text labels directly onto the color segments.  |
 
 # Identified changes for Part III
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| **Misunderstanding of "Vertical Drop":** P1 interpreted "Vertical Drop" as "Steepness" rather than mountain height. This caused confusion about the map's bubble size encoding, making them fear "big" bubbles meant "too difficult." | Rename Legend & Add Subtitle: I will change the map legend title from "Vertical Drop" to "Mountain Height". Or Keep both. I will also add a small subtitle explaining: "Measured from base to peak indicates the vertical size of the resort." |
-|   **"Miles" is a poor proxy for Travel Effort:** P2 noted that measuring distance in miles is misleading for mountain travel (e.g., 60 miles on I-70 can take 3+ hours). This metric failed to help them plan a realistic trip.            |       Switch to Traveling Time: I will replace the Dist_Denver_Miles metric in the tooltips with Travel_Time_Min (Average Drive Time). The tooltip will now read: "Approx. Drive from Denver: [X] Hours."   |
-|   **Distrust of Low Price Points:** When viewing the "Cheapest Resorts" bar chart, P2 questioned the quality of the lowest-priced options (e.g., "Is this $59 resort just a tiny hill?"). The simple bar chart lacked context on value/size.  |   Add Contextual Color Coding: I will modify the "Cheapest Resorts" bar chart to include a color code for Resort Size. Green Bars: Large Resorts (>1,000 acres). Grey Bars: Small Hills (<500 acres). This helps users distinguish between a "great deal" and a "small hill." |
-|   **Effectiveness of Annotations:** All participants praised the "Best Value" text box on the scatterplot. P1 noted they would have struggled to interpret the chart without it.  |  Standardize Annotations: I will ensure that all final charts in Tableau include explicit text annotations (e.g., "Best Value Zone," "Most Expensive," "Hidden Gem") rather than relying on the user to read the axes alone. |
+| **During the review of the scatterplot chart, P3 pointed out severe over-plotting in the center of the chart. The labels for "Winter Park," "Steamboat," and "Aspen Highlands" overlap with the data points, making the specific names unreadable. This undermines the goal of helping users "navigate the trade-offs" if they cannot identify the specific resorts in the middle cluster.**     |   I will implement a collision-detection algorithm or manually adjust the x,y offsets of the text labels in the code. This ensures that every resort label is legible and distinct from its data point, prioritizing readability over precise geometric centering of the text.   |
+|   **P1, who is new to Colorado and unfamiliar with ski geography, struggled with the terminology on the Map and Terrain charts. Specifically, the term "Vertical Drop" on the map legend was ambiguous to them, and the green/blue/black color scheme on the Terrain Analysis chart was not immediately understood as "difficulty levels" without a specific legend explaining ski trail ratings.**    |  For the Map: I will rename the size legend from "Vertical Drop" to "Mountain Size (Height)" or add a clearly visible subtitle explaining that vertical drop equals the skiable height of the mountain. For the Terrain Chart: I will add a direct legend that translates the colors: "Green (Beginner)," "Blue (Intermediate)," and "Black (Expert)."    |
+|   **When viewing the timeline, participants noted that the random (or alphabetical) sorting of the bars made it difficult to quickly answer "Who stays open the longest?". P3 noted that this required the user to scan up and down repeatedly rather than seeing a clear pattern.**    |   I will update the sorting logic of the bar chart to order the resorts by Total Days Open (Descending). This will create a "staircase" visual effect, allowing the user to instantly see the top performers (Arapahoe Basin) at the top, facilitating the "quick answers" goal of this section.   |
+|  **On the "Drive vs. Dive" analysis, the annotation text for the quadrant labels (e.g., "The Road Trip," "Local Gems") was rendered in a light grey that washed out against the white background. P3 identified this as a visibility issue, noting that it might be unreadable on lower-quality screens or for users with visual impairments.**     |  I will increase the opacity and darken the hex color code for these text annotations. I will also slightly bold the font to ensure these guiding labels are distinct from the grid lines, ensuring the "Sweet Spot" analysis remains the focal point.    |
 
 
 
 ## References
-> Colorado Snow Report, OnTheSnow. (n.d.). Retrieved November 15, 2025, from https://www.onthesnow.com/colorado/skireport
+> Aranoff, J. (2025, April 1). My First Time: Aspen Snowmass. SKI. https://www.skimag.com/ski-resort-life/aspen-snowmass-first-time/
 
-> Epic Ski & Snowboard Passes, Epic Season Pass. (n.d.). Retrieved November 15, 2025, from https://www.epicpass.com/
+> Arapahoe Basin Ski Resort Review | Colorado. (2025, May 8). PeakRankings. https://www.peakrankings.com/content/arapahoe-basin
 
-> Member Resorts - Official Site of Colorado Ski Country USA. (n.d.). Colorado Ski Country USA. Retrieved November 15, 2025, from https://www.coloradoski.com/resorts/
+> Beginner Ski Terrain in Crested Butte: Your Ultimate Guide | Butte & Co. (2025, July 9). https://www.crestedbutteskirentals.com/blog/beginner-ski-terrain-in-crested-butte-your-ultimate-guide/
 
-> Multi-Resort Unlimited Ski/Snowboard Season Pass, Ikon Pass. (n.d.). Retrieved November 15, 2025, from https://www.ikonpass.com/
+> Colorado Ski Resorts. (n.d.). Colorado.Com. Retrieved November 23, 2025, from https://www.colorado.com/colorado-ski-resorts
 
-> Snow and Climate Monitoring Predefined Reports and Maps, Natural Resources Conservation Service. (n.d.). Retrieved November 15, 2025, from https://www.nrcs.usda.gov/resources/data-and-reports/snow-and-climate-monitoring-predefined-reports-and-maps
+> Colorado Snow Report | OnTheSnow. (n.d.). Retrieved November 15, 2025, from https://www.onthesnow.com/colorado/skireport
+
+> Epic Ski & Snowboard Passes | Epic Season Pass. (n.d.). Retrieved November 15, 2025, from https://www.epicpass.com/
+
+> Member Resorts—Official Site of Colorado Ski Country USA. (n.d.). Colorado Ski Country USA. Retrieved November 15, 2025, from https://www.coloradoski.com/resorts/
+
+> Multi-Resort Unlimited Ski/Snowboard Season Pass | Ikon Pass. (n.d.). Retrieved November 15, 2025, from https://www.ikonpass.com/
+
+> Silverton Mountain. (n.d.). Silverton Mountain. Retrieved November 23, 2025, from https://silvertonmountain.com/mountain/stats/
+
+> Skiing Purgatory Resort In the San Juan Mountains. (n.d.). OutdoorMaster. Retrieved November 23, 2025, from https://outdoormaster.com/blogs/om-blog/skiing-purgatory-resort-in-the-san-juan-mountains
+
+> Snow and Climate Monitoring Predefined Reports and Maps | Natural Resources Conservation Service. (n.d.). Retrieved November 15, 2025, from https://www.nrcs.usda.gov/resources/data-and-reports/snow-and-climate-monitoring-predefined-reports-and-maps
+
+> Winter Mountain Stats | Copper Mountain Resort. (n.d.). Retrieved November 23, 2025, from https://www.coppercolorado.com/the-mountain/mountain-safety-stats/winter-mountain-stats/
+
+> Wolf Creek Review. (n.d.). PeakRankings. Retrieved November 23, 2025, from https://www.peakrankings.com/content/wolf-creek
+
 
 
 ## AI acknowledgements
