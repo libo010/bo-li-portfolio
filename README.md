@@ -35,6 +35,7 @@ Colorado is world-famous for its winter sports, but visiting can be intimidating
 
 - [Part III](final-project-part-three)
 
+- [Final Story Board](https://preview.shorthand.com/jmYWTXrMZ7sy5ori)
 
 ## AI acknowledgements
 
