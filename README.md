@@ -21,12 +21,14 @@ In this class, I'm really hoping to:
 # Portfolio
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt.md)
+> Here you can find my Assignment: Visulizing Goverment Debt
 
 ## Assignment: [Critique and Redesign](critique-and-redesign.md) 
-Here you can find my Assignment: Critique and redesign (MakeoverMonday).
+> Here you can find my Assignment: Critique and redesign (MakeoverMonday).
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+Colorado is world-famous for its winter sports, but visiting can be intimidating and expensive. With tickets ranging from $50 to over $250, how do you know what you are paying for? This project helps you navigate the trade-offs between cost, snow reliability, and terrain.
+
 - [Part I](final-project-part-one)
 
 - [Part II](final-project-part-two)
@@ -35,7 +37,6 @@ Here it might be helpful to include a high-level description of your final proje
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
 - Check grammars
 - Polishing write-up
