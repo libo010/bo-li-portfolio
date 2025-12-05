@@ -1,3 +1,5 @@
+| [home page](https://libo010.github.io/bo-li-portfolio/) | [critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 ## Assignment: Visualizing government Debt
 
 
