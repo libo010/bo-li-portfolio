@@ -1,3 +1,6 @@
+| [home page](https://libo010.github.io/bo-li-portfolio/) | [critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+
 # The Beginning
 
 I decided to work on NYC pizza slices data set. I was drawn to this visualization because it documents an interesting, daily purchase with the rigor of a long-term study. The author didn't just track prices; they compiled a dataset from 464 specific slices over eight years, explicitly excluding dollar slices to refine the average. This approach transforms a simple observation into a concrete record of urban life. As someone familiar with New York City and its food culture, seeing the steady climb from $2.52 to $3.00 for a plain slice validates a feeling I’ve had that the city's most basic needs are dramatically changing. The most compelling details are those observations, like the note on the declining amount of sauce, which suggests a downgrade of quality that a price line alone can't show. It’s a personal archive that uses data to tell a very human story about cost, value, and the slow evolution of a city's character through its food.
