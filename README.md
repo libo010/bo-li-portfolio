@@ -1,4 +1,4 @@
-| [home page](https://libo010.github.io/bo-li-portfolio/) | [critique and redesign](critique-and-redesign.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://libo010.github.io/bo-li-portfolio/) | [critique and redesign](critique-and-redesign.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. :)
