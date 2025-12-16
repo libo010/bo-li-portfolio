@@ -1,8 +1,8 @@
-| [home page](https://libo010.github.io/bo-li-portfolio/) | [critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [final story board](https://preview.shorthand.com/jmYWTXrMZ7sy5ori)
+| [home page](https://libo010.github.io/bo-li-portfolio/) | [critique and redesign](critique-and-redesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [final story board](https://carnegiemellon.shorthandstories.com/the-colorado-skiers-dilemma/index.html)
 
 
 # The final data story
-> [THE COLORADO SKIER’S DILEMMA](https://preview.shorthand.com/jmYWTXrMZ7sy5ori)
+> [THE COLORADO SKIER’S DILEMMA](https://carnegiemellon.shorthandstories.com/the-colorado-skiers-dilemma/index.html)
 
 # Changes made since Part II
 
