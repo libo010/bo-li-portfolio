@@ -10,8 +10,6 @@ Hi everyone, my name is **Bo**, and I’m currently a first-year **Master of Sci
 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
 In this class, I'm really hoping to:
 
 - Learn how to make data visulizations. I want to make charts that are actually clear and helpful, not confusing or misleading.
